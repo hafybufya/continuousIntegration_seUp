@@ -5,6 +5,7 @@ This repository is a minimimal example of a continuous integration project. Repu
 📁 Project Structure
 
 '''
+
 ├── mainCode.py
 ├── unitTesting.py
 ├── requirements.txt
@@ -12,6 +13,7 @@ This repository is a minimimal example of a continuous integration project. Repu
 └── .circle.ci/
     ├── myFunction.py
     └── unitTestFunction.py
+
 '''
 
 🛠️ Installation
