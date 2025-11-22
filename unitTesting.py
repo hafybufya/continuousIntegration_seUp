@@ -1,5 +1,5 @@
 import unittest
-from my_function_continuous import incrementing_function
+from mainCode import incrementing_function
 
 # define the unit tests
 class my_unit_tests(unittest.TestCase):
