@@ -3,8 +3,7 @@
 This repository is a minimimal example of a continuous integration project. Repurposed code from hafybufya/DAT5501IntroContent for this task.
 
 📁 Project Structure
-
-'''
+```
 
 ├── mainCode.py
 ├── unitTesting.py
@@ -14,7 +13,7 @@ This repository is a minimimal example of a continuous integration project. Repu
     ├── myFunction.py
     └── unitTestFunction.py
 
-'''
+```
 
 🛠️ Installation
 
