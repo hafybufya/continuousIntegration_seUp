@@ -1,6 +1,6 @@
 # Continuous Integration Setup
 
-This repository is a minimimal example of a continuous integration project. Repurposed code from hafybufya/DAT5501IntroContent for this task.
+This repository is a minimal example of a continuous integration project. Repurposed code from hafybufya/DAT5501IntroContent for this task.
 
 📁 Project Structure
 ```
