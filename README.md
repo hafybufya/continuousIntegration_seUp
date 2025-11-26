@@ -18,3 +18,4 @@ This repository is a minimal example of a continuous integration project. Repurp
 🛠️ Installation
 
 Python 3.10 or newer to run python files
+* No external python libraries required
