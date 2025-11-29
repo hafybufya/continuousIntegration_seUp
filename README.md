@@ -1,6 +1,8 @@
 # Continuous Integration Setup
 
-This repository is a minimal example of a continuous integration project. Repurposed code from hafybufya/DAT5501IntroContent for this task.
+This repository is a minimal example of a continuous integration project. Repurposed code from 
+[hafybufya/dat5501-introduction](https://github.com/hafybufya/dat5501-introduction) for this task.
+
 
 📁 Project Structure
 ```
@@ -10,8 +12,7 @@ This repository is a minimal example of a continuous integration project. Repurp
 ├── requirements.txt
 └── README.md
 └── .circle.ci/
-    ├── myFunction.py
-    └── unitTestFunction.py
+    └── config.yml
 
 ```
 
@@ -19,3 +20,6 @@ This repository is a minimal example of a continuous integration project. Repurp
 
 Python 3.10 or newer to run python files
 * No external python libraries required
+
+## 📄 License
+This project is open source and available under the [MIT License](https://github.com/hafybufya/continuous-integration-setup/blob/main/LICENSE).
